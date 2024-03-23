@@ -28,6 +28,8 @@
 mysql -u root -p your passward
 # 创建数据库
 create database chat;
+# 运行数据库脚本建表
+source chat.sql
 ```
 
 #执行脚本构建项目
